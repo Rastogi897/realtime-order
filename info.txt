@@ -1,0 +1,6 @@
+1. We will be using YARN as our package manager. 
+   Similer and faster then NPM.
+
+2. Using ejs as template engine
+
+3. The whole execution starts from server.js file
