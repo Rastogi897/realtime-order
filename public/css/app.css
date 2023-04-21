@@ -1,5 +1,19 @@
 body {
+  background: #121217;
   font-family: "Lato", sans-serif;
   -webkit-font-smoothing: antialiased;
-  color: #101010;
+  color: black;
+}
+
+.button {
+  background: black;
+  color: white;
+}
+
+.neon {
+  color: #2dd4bf;
+}
+
+.card {
+  background: #1a1c21;
 }

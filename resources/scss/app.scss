@@ -1,7 +1,27 @@
 @import './_veriable.scss';
 
 body{
+    // background: #7c3aed;
+    // background: #0e1014;
+    background: #121217;
     font-family: 'Lato', sans-serif;
     -webkit-font-smoothing: antialiased;
-    color: $secondary;
+    color: black;
 }
+
+
+.button{
+    background: black;
+    color: white;
+}
+
+.neon{
+    color: #2dd4bf;
+}
+
+.card{
+    background: #1a1c21;
+}
+
+
+
