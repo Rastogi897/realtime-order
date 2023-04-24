@@ -6,7 +6,7 @@ body {
 }
 
 .button {
-  background: black;
+  background-color: black;
   color: white;
 }
 
@@ -16,4 +16,12 @@ body {
 
 .card {
   background: #1a1c21;
+}
+
+.form {
+  background: #272930;
+}
+
+.input {
+  background-color: #292c33;
 }
